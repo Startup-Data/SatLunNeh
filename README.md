@@ -18,7 +18,11 @@ TODO :
 [What is the best place to ask an opinion about which CMS is the most appropriate for my task?](https://meta.stackexchange.com/questions/212874/what-is-the-best-place-to-ask-an-opinion-about-which-cms-is-the-most-appropriate/212876)
 8. **Find** the proper **CMS project** on **GitHub** and **write** the **TODO list** on its **README.MD** like this **TODO list** on this page.
 
-## Have a nice day and ...
+The presentation of this project on one Academic event could be seen [here](https://github.com/Startup-Data/SatLunNeh/raw/master/garbage-odp2%20for%20competition.pdf)
+:
+![enter image description here](https://i.stack.imgur.com/zg1lp.png)
+
+ ## Have a nice day and ...
 
 
 
@@ -129,4 +133,5 @@ TODO :
 >     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 >     See the License for the specific language governing permissions and
 >     limitations under the License.
+
 
