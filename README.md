@@ -7,7 +7,8 @@ Here we are trying to change these codes for one Garbage collection Android App 
 TODO :
 
 1. **Start** opening these codes via **Android Studio**
-2. **Built** the **APK** application of the main codes with **no changes** on them.
+2. **Built** the **APK** application of the main codes with **no changes** on them. Can use Gitpod as you cans do by https://gitpod.io/#https://github.com/Startup-Data/SatLunNeh like this:![image](https://user-images.githubusercontent.com/6679151/112917385-c0366e00-9117-11eb-8763-d1136b43ffdb.png)
+
 3. **Change** the **Doctors** and **patients** to **Garbage buyers and garbage sellers**.
 4. **Built** the **APK** file and **test** the Application on **some devices**( **Ask** about **how fast could test one application by online sites** [here](https://android.stackexchange.com/).
 5. If **the APK** file and the **codes** are working **right**, **try** **to find** one mechanism to **automatically change the Language** to a **different language like Arabic** and ..., so it could be done **faster** by asking one question about finding site or android modules to translate the APK codes automatically as a tool for android developers [**here**](https://android.stackexchange.com/)
