@@ -3,40 +3,9 @@ Here we are trying to change these codes for one Garbage collection Android App 
 
 ![image](https://user-images.githubusercontent.com/6679151/111624155-910f2b00-8800-11eb-8741-717a682376f4.png)
 
-```html
-<!-- begin snippet: js hide: false console: true babel: null -->
-
-<!-- language: lang-html -->
-
-    <div align="left">
-          <a href="https://www.youtube.com/watch?v=MUQfKFzIOeU">
-             <img src="https://img.youtube.com/vi/MUQfKFzIOeU/0.jpg" style="width:100%;">
-          </a>
-    </div>
-
-<!-- end snippet -->
-```
-```html
-<h2>Example of code</h2>
-
-<pre>
-    <div class="container">
-        <div class="block two first">
-            <h2>Your title</h2>
-            <div class="wrap">
-            //Your content
-            </div>
-        </div>
-    </div>
-</pre>
-```
 
 <blockquote>
-  <div align="left">
-          <a href="https://www.youtube.com/watch?v=MUQfKFzIOeU">
-             <img src="https://img.youtube.com/vi/MUQfKFzIOeU/0.jpg" style="width:100%;">
-          </a>
-    </div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MUQfKFzIOeU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </blockquote>
 
 TODO :
