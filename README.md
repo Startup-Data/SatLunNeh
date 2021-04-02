@@ -2,10 +2,14 @@
 Here we are trying to change these codes for one Garbage collection Android App with the name Of **SatLuNeh**
 
 ![image](https://user-images.githubusercontent.com/6679151/111624155-910f2b00-8800-11eb-8741-717a682376f4.png)
-<blockquote>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MUQfKFzIOeU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</blockquote>
 
+<blockquote>
+  <div align="left">
+          <a href="https://www.youtube.com/watch?v=Be5c83Uyg4U">
+             <img src="https://img.youtube.com/vi/Be5c83Uyg4U/0.jpg" style="width:100%;">
+          </a>
+    </div>
+</blockquote>
 
 TODO :
 <blockquote>
