@@ -3,7 +3,7 @@ Here we are trying to change these codes for one Garbage collection Android App 
 
 ![image](https://user-images.githubusercontent.com/6679151/111624155-910f2b00-8800-11eb-8741-717a682376f4.png)
 
-
+```html
 <!-- begin snippet: js hide: false console: true babel: null -->
 
 <!-- language: lang-html -->
@@ -15,8 +15,21 @@ Here we are trying to change these codes for one Garbage collection Android App 
     </div>
 
 <!-- end snippet -->
+```
+```html
+<h2>Example of code</h2>
 
-
+<pre>
+    <div class="container">
+        <div class="block two first">
+            <h2>Your title</h2>
+            <div class="wrap">
+            //Your content
+            </div>
+        </div>
+    </div>
+</pre>
+```
 
 TODO :
 
