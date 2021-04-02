@@ -4,6 +4,20 @@ Here we are trying to change these codes for one Garbage collection Android App 
 ![image](https://user-images.githubusercontent.com/6679151/111624155-910f2b00-8800-11eb-8741-717a682376f4.png)
 
 
+<!-- begin snippet: js hide: false console: true babel: null -->
+
+<!-- language: lang-html -->
+
+    <div align="left">
+          <a href="https://www.youtube.com/watch?v=MUQfKFzIOeU">
+             <img src="https://img.youtube.com/vi/MUQfKFzIOeU/0.jpg" style="width:100%;">
+          </a>
+    </div>
+
+<!-- end snippet -->
+
+
+
 TODO :
 
 1. **Start** opening these codes via **Android Studio**
