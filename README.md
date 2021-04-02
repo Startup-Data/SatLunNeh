@@ -4,7 +4,7 @@ Here we are trying to change these codes for one Garbage collection Android App 
 ![image](https://user-images.githubusercontent.com/6679151/111624155-910f2b00-8800-11eb-8741-717a682376f4.png)
 
 <blockquote>
-  <div align="left">
+  <div align="center">
           <a href="https://www.youtube.com/watch?v=Be5c83Uyg4U">
              <img src="https://img.youtube.com/vi/Be5c83Uyg4U/0.jpg" style="width:100%;">
           </a>
