@@ -31,6 +31,14 @@ Here we are trying to change these codes for one Garbage collection Android App 
 </pre>
 ```
 
+<blockquote>
+  <div align="left">
+          <a href="https://www.youtube.com/watch?v=MUQfKFzIOeU">
+             <img src="https://img.youtube.com/vi/MUQfKFzIOeU/0.jpg" style="width:100%;">
+          </a>
+    </div>
+</blockquote>
+
 TODO :
 
 1. **Start** opening these codes via **Android Studio**
