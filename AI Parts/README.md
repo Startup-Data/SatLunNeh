@@ -12,6 +12,9 @@ So first of All i am trying raed this post :
 
 [Let's Do It AI Project](https://opendata.letsdoitworld.org/#/ai)
 
+[Week 1 — Waste Classification](https://medium.com/bbm406f19/week-1-waste-classification-dde0aaf12ccb)
+
+
 ![image](https://user-images.githubusercontent.com/6679151/115226478-8825b800-a124-11eb-84f3-7e64e1a7adad.png)
 
 
@@ -26,7 +29,10 @@ https://github.com/CAR-Driving/yoloOnGoogleColab
 1- Scrap the Garbage and trash photo from google search results:
 
  1-1. First try could be seen in [This Colab Page](http://colab.research.google.com/github/Startup-Data/SatLunNeh/blob/master/AI%20Parts/Yoututbe_scraping_by_colab.ipynb)
- 
+ 1-2 Second try i found some Garbage Clasification dataset :
+    * https://www.kaggle.com/asdasdasasdas/garbage-classification
+    * https://www.kaggle.com/mostafaabla/garbage-classification
+    * [trashnet](https://github.com/garythung/trashnet)
 2- make the Garbage database form 1 Step.
 
 3- Train the yolo for Trash detection.
