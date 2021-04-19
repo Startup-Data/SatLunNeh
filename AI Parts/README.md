@@ -6,7 +6,16 @@ Google Search Results of: [Trash yolo garbage ai](https://www.google.com/search?
 
 ![image](https://user-images.githubusercontent.com/6679151/115223039-9c67b600-a120-11eb-8698-085b03c68bed.png)
 
-So first of ALL i am trying the yolo database creatign codes from my pervius project which is:
+So first of All i am trying raed this post :
+
+[Computer Vision for Garbage Detection](https://medium.com/ramudroid/computer-vision-for-garbage-detection-136029142b3c)
+
+[Let's Do It AI Project](https://opendata.letsdoitworld.org/#/ai)
+
+![image](https://user-images.githubusercontent.com/6679151/115226478-8825b800-a124-11eb-84f3-7e64e1a7adad.png)
+
+
+ِYolo database creatign codes from my pervius project which is:
 
 https://github.com/CAR-Driving/yoloOnGoogleColab
 
