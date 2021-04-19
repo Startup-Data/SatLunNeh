@@ -33,10 +33,9 @@ https://github.com/CAR-Driving/yoloOnGoogleColab
  
  1-2 Second try I found some Garbage Classification dataset : 
 
- - [Waste Classification
-   data](https://www.kaggle.com/asdasdasasdas/garbage-classification)
+ - [Waste Classification data](https://www.kaggle.com/asdasdasasdas/garbage-classification) Colab first try is [here](https://colab.research.google.com/github/Startup-Data/SatLunNeh/blob/master/AI%20Parts/Kitti_Database_Downloding_and_Converting_to_XML_1.ipynb#scrollTo=HEJFLiEoUWT0)
    
- - [Garbage Classification (12 classes)](https://www.kaggle.com/mostafaabla/garbage-classification)
+ - [Garbage Classification (12 classes)](https://www.kaggle.com/mostafaabla/garbage-classification) Colab try for this page is [here]:
    
  - [trashnet](https://github.com/garythung/trashnet)
 
