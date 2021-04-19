@@ -23,6 +23,7 @@ https://github.com/CAR-Driving/yoloOnGoogleColab
 
 ## ToDo:
 
-1- Scrap the Garbage and trash photo from google search results
+1- Scrap the Garbage and trash photo from google search results:
+ 1-1. First try could be seen in [This Colab Page](http://colab.research.google.com/github/Startup-Data/SatLunNeh/blob/master/AI%20Parts/Yoututbe_scraping_by_colab.ipynb)
 2- make the Garbage database form 1 Step.
 3- Train the yolo for Trash detection.
