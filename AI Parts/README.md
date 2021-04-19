@@ -33,11 +33,12 @@ https://github.com/CAR-Driving/yoloOnGoogleColab
  
  1-2 Second try I found some Garbage Classification dataset : 
 
-[Waste Classification data](https://www.kaggle.com/asdasdasasdas/garbage-classification)
-
-[Garbage Classification (12 classes)](https://www.kaggle.com/mostafaabla/garbage-classification)
-
-[trashnet](https://github.com/garythung/trashnet)
+ - [Waste Classification
+   data](https://www.kaggle.com/asdasdasasdas/garbage-classification)
+   
+ - [Garbage Classification (12 classes)](https://www.kaggle.com/mostafaabla/garbage-classification)
+   
+ - [trashnet](https://github.com/garythung/trashnet)
 
 2- Make the Garbage database form 1 Step.
 
