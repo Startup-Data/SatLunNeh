@@ -43,7 +43,7 @@ https://github.com/CAR-Driving/yoloOnGoogleColab
 
 ## The above 3 steps are done below for these two datasets:
 
- - [Waste Classification data](https://www.kaggle.com/techsash/waste-classification-data) Colab first try is [here](https://colab.research.google.com/github/Startup-Data/SatLunNeh/blob/master/AI%20Parts/Kitti_Database_Downloding_and_Converting_to_XML_1.ipynb#scrollTo=HEJFLiEoUWT0) and [here](https://github.com/Startup-Data/SatLunNeh/blob/master/AI%20Parts/Kitti_Database_Downloding_and_Converting_to_XML_(garbageclassifier-xceptionmodel).ipynb)
+ - [Waste Classification data](https://www.kaggle.com/techsash/waste-classification-data) Colab first for that page could be seen [here](https://colab.research.google.com/github/Startup-Data/SatLunNeh/blob/master/AI%20Parts/Kitti_Database_Downloding_and_Converting_to_XML_1.ipynb) 
    
    
- - [Garbage Classification (6 classes)](https://www.kaggle.com/asdasdasasdas/garbage-classification) Colab try for this page is under Construction.
+ - [Garbage Classification (6 classes)](https://www.kaggle.com/asdasdasasdas/garbage-classification) Colab try for that page could be seen [here](https://colab.research.google.com/github/Startup-Data/SatLunNeh/blob/master/AI%20Parts/Kitti_Database_Downloding_and_Converting_to_XML_(garbageclassifier-xceptionmodel0%20).ipynb)
