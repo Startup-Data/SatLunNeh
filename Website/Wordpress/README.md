@@ -20,7 +20,9 @@
 
 ## ToDo:
 
-1- Translate it by [loco translate plugin][1] and Automatic PO file translators like [po-auto-translator](https://sourceforge.net/p/po-auto-tran) Software.
+1- Translate it by [loco translate plugin][1] and Automatic PO file translators like [po-auto-translator](https://sourceforge.net/p/po-auto-tran) Software, like shown belwo:
+![image](https://user-images.githubusercontent.com/6679151/117475808-bb17da80-af71-11eb-80a5-87fb4e436651.png)
+
 
 
   [1]: https://localise.biz/wordpress/plugin
