@@ -1,4 +1,4 @@
-# This is about the wordpress try for this project.
+# This is about the WordPress try for this project.
 
 ## Question asked:
 
