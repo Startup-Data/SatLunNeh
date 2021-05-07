@@ -23,6 +23,9 @@
 1- Translate it by [loco translate plugin][1] and Automatic PO file translators like [po-auto-translator](https://sourceforge.net/p/po-auto-tran) Software, like shown belwo:
 ![image](https://user-images.githubusercontent.com/6679151/117475808-bb17da80-af71-11eb-80a5-87fb4e436651.png)
 
+2- And Others Transaltor Mechanism like Those said [here](https://make.wordpress.org/polyglots/handbook/translating/glotpress-translate-wordpress-org/tools/):
+
+![image](https://user-images.githubusercontent.com/6679151/117488429-a2afbc00-af81-11eb-8906-b4fae65eb7e9.png)
 
 
   [1]: https://localise.biz/wordpress/plugin
