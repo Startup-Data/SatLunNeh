@@ -6,7 +6,7 @@
 
 [Persian sample of this plugin  on the internet](https://www.varamarz.com/):
 ![image](https://user-images.githubusercontent.com/6679151/117474269-03ce9400-af70-11eb-82c6-5ecd636af184.png)
-[Duplicator](https://wordpress.org/plugins/duplicator/) backup file for This plugin coudl be downlaoded form [here](https://transfer.sh/ywfpV/20210507_satluneh_added_theme_options3_c92901968cb7e3ad3963_20210507194943.daf):
+[Duplicator](https://wordpress.org/plugins/duplicator/) backup file for This plugin coudl be downlaoded form [here](https://transfer.sh/ywfpV/20210507_satluneh_added_theme_options3_c92901968cb7e3ad3963_20210507194943.daf)([link2](http://upindia.mobi/613149/9nz02s7)):
 ![image](https://user-images.githubusercontent.com/6679151/117508210-73a74380-af9d-11eb-870c-92b7ae36655c.png)
 
 
