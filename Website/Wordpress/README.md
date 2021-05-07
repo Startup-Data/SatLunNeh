@@ -1,4 +1,12 @@
 # This is about the WordPress try for this project.
+# Tries:
+
+## 1- based of the PE Terraclassic WordPress plugin and them ([Installation manual](https://www.pixelemu.com/documentation/wordpress-themes/pe-terraclassic-wordpress-theme-manual)):
+![image](https://user-images.githubusercontent.com/6679151/117474053-d7b31300-af6f-11eb-8bff-90e369b87846.png)
+
+[Persian sample of this plugin onthe internet](https://www.varamarz.com/):
+![image](https://user-images.githubusercontent.com/6679151/117474269-03ce9400-af70-11eb-82c6-5ecd636af184.png)
+
 
 ## Question asked:
 
