@@ -11,7 +11,7 @@
 
 The whole WordPress files as Zip File could be accessible [here](https://www.mediafire.com/file/htxckmqhwgez6gq/Wordpress2.zip/file).
 
- ### Video instruction [link](https://soheil-dating.wistia.com/medias/ul4edsrqsl) for the Above process:
+ ### Video instruction ([link 1](https://soheil-dating.wistia.com/medias/ul4edsrqsl) and [2](https://satluneh.cdn.spotlightr.com/watch/MTExOTA2MA==)) for the Above process:
  ![image](https://user-images.githubusercontent.com/6679151/117523013-b97b0080-afcb-11eb-9104-756e535e668a.png)
 
  
