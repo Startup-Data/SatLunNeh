@@ -1,5 +1,5 @@
 
-#start doing this by the below instruction:
+# start doing this by the below instruction:
 
  1. First try: [Smart Garbage Monitoring System Using Arduino 101][1]
 
