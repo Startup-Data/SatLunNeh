@@ -5,7 +5,7 @@
 
 [![enter image description here][2]][2]
 
-The above try was build based on this post and [these Arduino codes][3] and below circuit:
+The above try was build based on [this post](https://blynk.hackster.io/josie99/smart-trash-bin-automation-7c8dea) and [these Arduino codes][3] and below circuit:
 ![image](https://user-images.githubusercontent.com/6679151/125275639-884ce280-e324-11eb-8a32-6c3eac885095.png)
 
 
