@@ -1,4 +1,1 @@
-[![enter image description here][1]][1]
-
-
-  [1]: https://i.stack.imgur.com/HNvi2.jpg
+![enter image description here](https://i.stack.imgur.com/HNvi2.jpg)
