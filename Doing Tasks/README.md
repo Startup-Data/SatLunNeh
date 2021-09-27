@@ -1,8 +1,8 @@
-# This pages show the currect task for doing in this project:
+# This pages show the current task for doing in this project:
 
 ## Task 1:
 
-> I have one Wast management project ([link][1]) which have had one
+> I have one Waste management project ([link][1]) which have had one
 > smart trash bin made by Arduino ( ESP8266). 
 > 
 > I have one AI music composer code on the Google Colaboratory page
