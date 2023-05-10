@@ -12,7 +12,7 @@ And by the colabratorary page, as example below from [this link][2]:
 
 Ant the [VenturusAI][4] site for writing the proposal:
 
-[enter image description here][5]
+![enter image description here][5]
 
 So I have added the maid results in this github folder too.
 
